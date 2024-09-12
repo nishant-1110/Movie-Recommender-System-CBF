@@ -26,6 +26,7 @@ Integration with Content Engine: Ensures that the content-based filtering engine
 
 #### Technologies Used:
 Python: The entire system is developed in Python, leveraging its rich ecosystem of libraries for data processing, machine learning, and web development.
+
 NLP Libraries: Utilizes state-of-the-art NLP libraries for feature extraction and processing of textual data.
 
 To use the model write streamlit run website.py and then a web page appears with the heading Movie Recommender System, then type or select a movie from the dropdown and click Show Recommendation, then five most similar movies from the one you selected will appear on the screen.
