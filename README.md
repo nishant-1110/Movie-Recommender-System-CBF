@@ -29,8 +29,10 @@ Python: The entire system is developed in Python, leveraging its rich ecosystem 
 
 NLP Libraries: Utilizes state-of-the-art NLP libraries for feature extraction and processing of textual data.
 
+Streamlit: Employs Streamlit for the rapid development of the web application, streamlining the user interface design process.
+
 To use the model write streamlit run website.py and then a web page appears with the heading Movie Recommender System, then type or select a movie from the dropdown and click Show Recommendation, then five most similar movies from the one you selected will appear on the screen.
-Streamlit: Employs Streamlit for the rapid development and deployment of the web application, streamlining the user interface design process.
+
 
 
 
